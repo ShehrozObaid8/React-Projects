@@ -1,0 +1,26 @@
+.theme-box{
+display: flex;
+justify-content: center;
+}
+
+
+.red-theme{
+    width: 10%;
+    border: 2px black solid;
+    padding: 5%;
+    background-color: red;
+}
+
+.black-theme{
+    width: 10%;
+    border: 2px black solid;
+    padding: 5%;
+    background-color: black;
+}
+
+.white-theme{
+    width: 10%;
+    border: 2px black solid;
+    padding: 5%;
+    background-color: white;
+}

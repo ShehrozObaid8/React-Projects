@@ -1,0 +1,177 @@
+.ul01 {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+
+#div-header {
+    position: sticky;
+    top: 0px;
+    z-index: 2;
+}
+
+.ul01>a {
+    padding: 1vw;
+    margin-top: 20px;
+    font-weight: 650;
+    text-decoration: none;
+    color: black;
+}
+
+img {
+    margin-top: -2%;
+    margin-left: 6vw;
+}
+
+#btn-01 {
+    color: white;
+    background: rgb(216, 56, 102);
+    padding: 8px;
+    border-radius: 15px;
+    margin-top: 5px;
+    margin-right: 13vw;
+    border: none;
+}
+
+#btn-01:hover {
+    background-color: rgb(222, 36, 89);
+}
+
+#heading-01 {
+    /* font-weight: 1500vw; */
+    margin-left: 8vw;
+}
+
+
+#img-02 {
+    margin-left: 8vw;
+}
+
+
+#heading-02 {
+    float: right;
+    margin-right: 9vw;
+    position: relative;
+}
+
+
+#para-01 {
+    float: right;
+    margin-right: 9.5vw;
+    margin-top: -13vw;
+    font-size: 1.3vw;
+}
+
+#btn-02 {
+    color: white;
+    background: rgb(216, 56, 102);
+    padding: 13px;
+    padding-right: 25px;
+    /* text-align: center; */
+    border-radius: 15px;
+    margin-top: -4vw;
+    margin-right: 32vw;
+    border: none;
+    float: right;
+}
+
+#btn-02:hover {
+    background: rgb(237, 60, 110);
+}
+
+#heading-03 {
+    margin-left: 7vw;
+    margin-top: 20vh;
+}
+
+#para-02 {
+    margin-left: 7.5vw;
+}
+
+
+#img-03 {
+    margin-left: 7vw;
+    margin-top: -39vh;
+}
+
+#img-04 {
+    position: relative;
+    right: 4vw;
+    margin-top: -39vh;
+}
+
+#img-05 {
+    position: relative;
+    right: 8vw;
+    margin-top: -39vh;
+}
+
+#img-06 {
+    position: relative;
+    top: -9vw;
+    right: 5vw;
+}
+
+#img-07 {
+    margin-left: 8vw;
+}
+
+#heading-04 {
+    float: right;
+    margin-top: 3.5vw;
+    margin-right: 11vw;
+}
+
+#para-03 {
+    float: right;
+    margin-top: -16.5vw;
+    margin-right: 8.5vw;
+}
+
+#btn-03 {
+    float: right;
+    margin-right: 36vw;
+    margin-top: -20vh;
+    background: rgb(237, 60, 110);
+    color: white;
+    padding: 8px 25px;
+    border-radius: 25px;
+    border: none;
+    font-weight: 600;
+}
+
+.div-02>h1 {
+    text-align: center;
+    margin-top: 23vh;
+}
+
+.div-02>p {
+    text-align: center;
+}
+
+.div-03>h1 {
+    margin-top: 20vw;
+    margin-left: 5vw;
+    /* text-align: center; */
+}
+
+.div-03>p {
+    margin-top: 1vw;
+    margin-left: 5vw;
+    /* text-align: center; */
+}
+
+.div-03>button {
+    margin-left: 5vw;
+    color: rgb(237, 60, 110);
+    background: none;
+    border: none;
+    font-size: 1.5vw;
+    font-weight: 700;
+}
+
+#img-08 {
+    float: right;
+    margin-top: -35vh;
+    margin-right: 12vw;
+}

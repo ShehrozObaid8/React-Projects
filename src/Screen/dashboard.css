@@ -1,0 +1,61 @@
+#div-1>h2 {
+    position: absolute;
+    bottom: 58vh;
+    left: 5vw;
+}
+
+#div-2>h3 {
+    margin-left: 3vw;
+    margin-top: 6vh;
+}
+
+#div-3{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-top: 3vh;
+}
+
+#div-100>ul{
+    cursor: pointer;
+}
+
+
+#div-8{
+    display: flex;
+    justify-content: center;
+}
+
+#div-9{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-left: 16vw;
+}
+
+#div-10{
+    display: flex;
+    justify-content: center;
+    margin-right: 25vw;
+}
+
+
+#div-11{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-left: 16vw;
+}
+
+#div-12{
+    display: flex;
+    justify-content: center;
+    margin-right: 22.5vw;
+}
+
+#div-13{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-left: 12vw;
+}

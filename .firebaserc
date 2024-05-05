@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "exms20",
+    "hosting": "exms20"
+  },
+  "targets": {},
+  "etags": {}
+}
