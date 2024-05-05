@@ -1,0 +1,44 @@
+    #ad-01 {
+        margin-top: 2%;
+        margin-left: 11%;
+    }
+
+
+    #end-01 {
+        margin-left: 7%;
+        margin-top: 5%;
+
+    }
+
+
+    #end-02 {
+        margin-left: 12%;
+        margin-top: 5%;
+
+    }
+
+    #head-001 {
+        display: flex;
+        justify-content: center;
+        margin-left: 20%;
+        margin-top: -12%;
+    }
+
+    #img-1001 {
+        display: flex;
+        margin-left: 54%;
+    }
+
+
+    #img-1002 {
+        display: flex;
+        margin-left: 66%;
+        margin-top: -3%; 
+    }
+
+
+    #img-1003 {
+        display: flex;
+        margin-left: 78%;
+        margin-top: -3%; 
+    }

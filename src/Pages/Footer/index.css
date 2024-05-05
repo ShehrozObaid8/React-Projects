@@ -1,0 +1,88 @@
+/* Default styles for your footer */
+
+#changed-002 a {
+    color: black;
+}
+
+.unorder-01 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10%;
+    margin-top: 14%;
+    list-style: none;
+}
+
+.div0001 {
+    display: flex;
+    justify-content: center;
+    margin-right: 28%;
+    margin-top: -21%;
+}
+
+.div0002 {
+    display: flex;
+    justify-content: center;
+    margin-left: 11%;
+    margin-top: -23.3%;
+}
+
+.div0003 {
+    display: flex;
+    justify-content: center;
+    margin-left: 41%;
+    margin-top: -19%;
+}
+
+.changed-00 {
+    text-decoration: none;
+    color: black;
+}
+
+.div-00001 {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 10%;
+    margin-top: -10.3%;
+}
+
+#img-100001 {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.div-00002 {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 7%;
+}
+
+.div-00003 {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 1%;
+    margin-left: 2%;
+}
+
+/* Add media queries for responsive design */
+@media (max-width: 868px) {
+
+    .unorder-01,
+    .div0001,
+    .div0002,
+    .div0003,
+    .div-00001,
+    .div-00002,
+    .div-00003 {
+        display: block;
+        margin: 0;
+        text-align: center;
+    }
+
+    .div0001,
+    .div0002,
+    .div0003 {
+        margin-right: 0;
+        margin-left: 0;
+        margin-top: 0;
+    }
+}

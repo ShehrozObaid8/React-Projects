@@ -1,0 +1,97 @@
+/* Default styles for larger screens */
+#img-01 {
+    margin-left: 140%;
+}
+
+#img-car {
+    margin-left: 70%;
+}
+
+#img-build {
+    margin-left: 40%;
+}
+
+#img-02 {
+    width: 5%;
+    margin-left: 6%;
+    margin-top: 3%;
+}
+
+#inp-change {
+    margin-top: 3%;
+    margin-right: 70%;
+    padding: 7px;
+}
+
+#inp-change2 {
+    margin-top: -3.3%;
+    margin-left: 33%;
+    padding: 7px;
+    padding-right: 18%;
+}
+
+#font-icon {
+    margin-right: 32%;
+    position: absolute;
+    right: 4%;
+    top: 70%;
+}
+
+#login-01 {
+    margin-right: 26%;
+    margin-top: -3%;
+    border: none;
+    text-decoration: none;
+    background: none;
+}
+
+#login-02 {
+    padding: 8px 30px 5px 13px;
+    border-radius: 20px;
+    margin-left: 77%;
+    margin-top: -3%;
+    color: white;
+    background: #000;
+}
+
+#login-02:hover {
+    background: white;
+    color: black;
+}
+
+.navbar {
+    position: sticky;
+    top: 0px;
+    z-index: 1;
+}
+
+/* Media queries for smaller screens */
+@media (max-width: 850px) {
+    /* Reset styles for smaller screens */
+    #img-01, #img-car, #img-build, #img-02, #inp-change, #inp-change2, #font-icon, #login-01, #login-02 {
+        margin: 0;
+        padding: 0;
+        width: auto;
+    }
+    
+    #img-01, #img-car, #img-build {
+        display: none;
+    }
+
+    #login-01, #login-02 {
+        display: block;
+        margin: 0;
+    }
+
+    #inp-change, #inp-change2, #font-icon {
+        margin: 0;
+        padding: 5px;
+        width: 100%;
+        text-align: center;
+        display: block;
+    }
+
+    #inp-change2 {
+        margin-top: 10px;
+    }
+}
